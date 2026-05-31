@@ -58,7 +58,7 @@ https://iptv-org.github.io/api/channels.json
 | replaced_by | string or null | The ID of the channel that this channel was replaced by                                                                       |
 | website     | string or null | Official website URL                                                                                                          |
 
-Source of data: https://github.com/iptv-org/database
+Source of data: https://github.com/7xd9rjyhtv-collab/Free-TV-Database
 
 ### Feeds
 
@@ -96,7 +96,7 @@ https://iptv-org.github.io/api/feeds.json
 | languages      | array   | List of broadcast languages                                                                                                      |
 | format         | string  | Video format of the feed                                                                                                         |
 
-Source of data: https://github.com/iptv-org/database
+Source of data: https://github.com/7xd9rjyhtv-collab/Free-TV-Database
 
 ### Logos
 
@@ -132,7 +132,7 @@ https://iptv-org.github.io/api/logos.json
 | format  | string or null | Image format (one of: `PNG`, `JPEG`, `SVG`, `GIF`, `WebP`, `AVIF`, `APNG`) |
 | url     | string         | Logo URL                                                                   |
 
-Source of data: https://github.com/iptv-org/database
+Source of data: https://github.com/7xd9rjyhtv-collab/Free-TV-Database
 
 ### Streams
 
